@@ -11,9 +11,9 @@ namespace ConsoleGame
         public Unit PlayerUnit;
         public Unit EnemyUnit;
         public Input Input;
-        public int AbilitiesCount;
-        public int SecondAbilityModifier;
-        public int ThirdAbilityValue;
+        private int AbilitiesCount; //public
+        private int SecondAbilityModifier; //public
+        private int ThirdAbilityValue;
 
         public Enemy(Unit playerUnit, Unit enemyUnit, Input input) 
             {

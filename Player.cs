@@ -8,12 +8,12 @@ namespace ConsoleGame
     {
     internal class Player
         {
-        public string Name;
+        private string Name; //public
         public Unit PlayerUnit;
         public Unit EnemyUnit;
         public Input Input;
         public ConsoleWriter Writer;
-        public int FireballDamage = 200;
+        private int FireballDamage = 200; //public
 
         public Player( string name, Unit playerUnit, Unit enemyUnit, Input input, ConsoleWriter writer  )
             {
