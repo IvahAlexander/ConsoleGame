@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0430\u0448\u0430\\Documents\\GitHub\\ConsoleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC709BF4-B357-4469-91CE-858EEFBC9A9B}|ConsoleGame.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\documents\\github\\consolegame\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC709BF4-B357-4469-91CE-858EEFBC9A9B}|ConsoleGame.csproj|solutionrelative:unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC709BF4-B357-4469-91CE-858EEFBC9A9B}|ConsoleGame.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\documents\\github\\consolegame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC709BF4-B357-4469-91CE-858EEFBC9A9B}|ConsoleGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC709BF4-B357-4469-91CE-858EEFBC9A9B}|ConsoleGame.csproj|c:\\users\\\u0441\u0430\u0448\u0430\\documents\\github\\consolegame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC709BF4-B357-4469-91CE-858EEFBC9A9B}|ConsoleGame.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\Documents\\GitHub\\ConsoleGame\\Unit.cs",
+              "RelativeDocumentMoniker": "Unit.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\Documents\\GitHub\\ConsoleGame\\Unit.cs",
+              "RelativeToolTip": "Unit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:58:08.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\Documents\\GitHub\\ConsoleGame\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\Documents\\GitHub\\ConsoleGame\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:56:19.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0430\u0448\u0430\\Documents\\GitHub\\ConsoleGame\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0430\u0448\u0430\\Documents\\GitHub\\ConsoleGame\\Enemy.cs",
+              "RelativeToolTip": "Enemy.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:50:43.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

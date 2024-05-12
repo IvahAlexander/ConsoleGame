@@ -10,15 +10,15 @@ namespace ConsoleGame
     {
     internal class Unit
         {
-        public int Damage;
-        public int MaxHealth;
-        public int CurrentHealth;
-        public bool IsAlive = true;
-        public int ShieldCount = 0;
-        public bool LastDamageFromWeapon = false;
-        public List<string> AbilityDescription = new();
-        public Dictionary<AttackType, List<float>> DamageHistory = new();
-        
+        private int Damage; //public
+        private int MaxHealth; //public
+        private int CurrentHealth; //public
+        private bool IsAlive = true; //public
+        private int ShieldCount = 0; //public
+        private bool LastDamageFromWeapon = false; //public
+        private List<string> AbilityDescription = new();  //public
+        private Dictionary<AttackType, List<float>> DamageHistory = new(); //public
+
         public Unit(int damage, int maxHealth)
             {
             Damage = damage;
