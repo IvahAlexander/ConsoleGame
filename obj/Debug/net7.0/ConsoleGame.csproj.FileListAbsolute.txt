@@ -1,0 +1,15 @@
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\bin\Debug\net7.0\ConsoleGame.exe
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\bin\Debug\net7.0\ConsoleGame.deps.json
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\bin\Debug\net7.0\ConsoleGame.runtimeconfig.json
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\bin\Debug\net7.0\ConsoleGame.dll
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\bin\Debug\net7.0\ConsoleGame.pdb
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.dll
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\net7.0\refint\ConsoleGame.dll
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.pdb
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ref\ConsoleGame.dll
+C:\Users\alexi\OneDrive\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\net7.0\ConsoleGame.sourcelink.json
