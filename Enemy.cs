@@ -8,9 +8,9 @@ namespace ConsoleGame
     {
     internal class Enemy
         {
-        public Unit PlayerUnit;
-        public Unit EnemyUnit;
-        public Input Input;
+        private Unit PlayerUnit; //public
+        private Unit EnemyUnit; //public
+        private Input Input; //public
         private int AbilitiesCount; //public
         private int SecondAbilityModifier; //public
         private int ThirdAbilityValue;
@@ -25,7 +25,7 @@ namespace ConsoleGame
             ThirdAbilityValue = 100;
             }
 
-        public void Turn ()
+        public void Turn () //public
             {
             switch (Input.GetAICommandNumber(AbilitiesCount))
                 {

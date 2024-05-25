@@ -49,19 +49,19 @@ namespace ConsoleGame
             damages.Clear();
             }
 
-        public void WriteDamagesFromTo ( Dictionary<AttackType, List<float>> damages, string damagerName, string defenderName )
+        public void WriteDamagesFromTo ( Dictionary<AttackType, List<float>> damages, string damagerName, string defenderName ) //public
             {
             foreach (var damage in damages)
                 {
                 WriteDamageWithType(damage.Key, damagerName, defenderName, damage.Value);
                 }
             }
-        public void WriteUnitHealth (string owner, Unit unit)
+        public void WriteUnitHealth (string owner, Unit unit )  //public
             {
             Console.WriteLine($"{owner}: {unit.CurrentHealth}");
             }
 
-        public void WriteAbilitiesList (string message, Unit unit)
+        public void WriteAbilitiesList (string message, Unit unit ) //public
             {
             Console.WriteLine($"{message}");
             for (int i = 0; i< unit.GetAbilityCount(); i++)

@@ -15,7 +15,7 @@ namespace ConsoleGame
             Random = new Random();
             }
 
-        public int GetPlayerCommandNumber ()
+        public int GetPlayerCommandNumber () //public
             {
             Console.Write("Введите номер: ");
             int commandNumber;
@@ -28,7 +28,7 @@ namespace ConsoleGame
             return commandNumber;
             }
 
-        public int GetAICommandNumber ( int maxNumbers )
+        public int GetAICommandNumber ( int maxNumbers ) //public
             {
             int randomCommand = Random.Next(1, maxNumbers + 1);
             return randomCommand;

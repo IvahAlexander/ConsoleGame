@@ -10,14 +10,14 @@ namespace ConsoleGame
     {
     internal class Unit
         {
-        private int Damage; //public
+        public int Damage; //public
         private int MaxHealth; //public
-        private int CurrentHealth; //public
-        private bool IsAlive = true; //public
-        private int ShieldCount = 0; //public
-        private bool LastDamageFromWeapon = false; //public
-        private List<string> AbilityDescription = new();  //public
-        private Dictionary<AttackType, List<float>> DamageHistory = new(); //public
+        public int CurrentHealth;
+        public bool IsAlive = true; //public
+        public int ShieldCount = 0; //public
+        public bool LastDamageFromWeapon = false; //public
+        public List<string> AbilityDescription = new();  //public
+        public Dictionary<AttackType, List<float>> DamageHistory = new(); //public
 
         public Unit(int damage, int maxHealth)
             {
@@ -29,8 +29,8 @@ namespace ConsoleGame
             DamageHistory[AttackType.Self] = new List<float>();
             DamageHistory[AttackType.Heal] = new List<float>();
             }
-        
-        public void TakeDamage(int damage, Unit origin, bool IsWeaponDamage = false)
+
+        public void TakeDamage(int damage, Unit origin, bool IsWeaponDamage = false ) //public
             {
             LastDamageFromWeapon = IsWeaponDamage;
             bool isHeal = damage < 0;
@@ -61,17 +61,17 @@ namespace ConsoleGame
                 }
             }
 
-        public string GetAbilityDescription(int abilityNumber )
+        public string GetAbilityDescription(int abilityNumber ) //public
             {
             return AbilityDescription[abilityNumber];
             }
 
-        public int GetAbilityCount () 
+        public int GetAbilityCount ()  //public
             {
             return AbilityDescription.Count;
             }
 
-        public bool InShield ()
+        private bool InShield () //public
             {
             return ShieldCount > 0;
             }

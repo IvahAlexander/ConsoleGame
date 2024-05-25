@@ -23,12 +23,12 @@ namespace ConsoleGame
             Input = input;
             Writer = writer;
 
-            PlayerUnit.AbilityDescription.Add($"Ударить оружием (урон {playerUnit.Damage}");
+            PlayerUnit.AbilityDescription.Add($"Ударить оружием (урон {playerUnit.Damage})");
             PlayerUnit.AbilityDescription.Add($"Щит: следующая атака противника не нанесет урона");
             PlayerUnit.AbilityDescription.Add($"Огненный шар: наносит урон в размере {FireballDamage}");
             }
 
-        public void Turn()
+        public void Turn() //public
             {
             Writer.WriteUnitHealth("Ваше здоровье: ", PlayerUnit);
             Writer.WriteUnitHealth("Здоровье противника: ", EnemyUnit);
